@@ -10,7 +10,7 @@ I have worked for around 5 years in various software engineer jobs. 💻
 
 <br>
 
-#### ⏰ Some cool ❄️ recent projects:
+#### A couple of recent projects:
 - **Spotify video feed ranking service:** <img
 src="https://i0.wp.com/amselcom.de/wp-content/uploads/spotify-logo.png?resize=512%2C512&ssl=1"
 width="16" height="16"> Internship project for the upcoming 🎉 Video 🎥Feeds to the platform. It calls many internal services to filter and rank videos for the feed based on user preference. 
