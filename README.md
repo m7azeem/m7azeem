@@ -1,6 +1,6 @@
 <h2 style="text-align: center;"> 👋 Hello, I’m @m7azeem </h2>
 
-<div style="text-align: center;"> And I ❤️ distributed backends, data and machine learning. </div>
+<div style="text-align: center;">I ❤️ distributed backends, data and machine learning. </div>
 
 #### Recently finished internship at  <img src="https://i0.wp.com/amselcom.de/wp-content/uploads/spotify-logo.png?resize=512%2C512&ssl=1" width="16" height="16"> Spotify.
 
